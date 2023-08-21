@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.disp{
+  
+  height:50px;
+  width:40px;
+  
+  display:flex
+}
+.flexcon{
+  background-color: yellow;
+  display:flex;
+  border-style:groove;
+  width:120px;
+  
+}
+
